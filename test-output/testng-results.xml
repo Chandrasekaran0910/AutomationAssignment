@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T19:06:24 IST" name="Default suite" finished-at="2024-12-27T19:06:25 IST" duration-ms="1702">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T19:06:24 IST" name="Default test" finished-at="2024-12-27T19:06:25 IST" duration-ms="1702">
+      <class name="apiAutomation.BpiApiTest">
+        <test-method signature="testBpi()[pri:0, instance:apiAutomation.BpiApiTest@60015ef5]" started-at="2024-12-27T19:06:24 IST" name="testBpi" finished-at="2024-12-27T19:06:25 IST" duration-ms="1669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBpi -->
+      </class> <!-- apiAutomation.BpiApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
